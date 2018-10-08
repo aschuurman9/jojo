@@ -28,3 +28,5 @@ class Deelnemer{
 		leeftijd = deLeeftijd;
 	}
 }
+
+// Aantekening
